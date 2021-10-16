@@ -1,0 +1,12 @@
+Welcome to My Mortgage Calculator!!!
+--------------------------------------------------
+This is a disclosure of the My Mortgage Calculator. you have to agree the terms
+and conditions before processing the mortgage calculation.
+
+Enter Y to agree the disclosure or Enter any other key to exist
+the mortgage calculator.
+
+Term:
+1. This mortgage calculation is to provide the estimated loan and monthly
+payment of the loan. This does not guaranty to the final price of the loan
+or monthly payment.
